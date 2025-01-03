@@ -1,6 +1,7 @@
 # HoseIrrigation8Zones
 8 zones irrigation from hose
-<img width="883" alt="image" src="https://github.com/user-attachments/assets/a5b6da60-c367-42a7-8283-873f2738c4dc" />
+<img width="879" alt="image" src="https://github.com/user-attachments/assets/791a399f-7bae-4fd0-a39c-0349cebd7284" />
+
 
 
 
